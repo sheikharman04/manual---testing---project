@@ -15,7 +15,7 @@ As part of a learning project, I tested the login functionality of Saucedemo’s
   - Blank input fields
   - Password masking
   - UI element validation
-  - Input edge cases (special characters, SQL injection)
+  - Input edge cases (special characters)
 
 ## Tools Used
 - Google Sheets / Microsoft Excel
@@ -30,6 +30,5 @@ As part of a learning project, I tested the login functionality of Saucedemo’s
 | TC001        | Valid login credentials | Enter correct username and password, click login | Dashboard appears | Dashboard appears | Pass |
 
 ## Author
-**[Your Name]**  
-Aspiring Manual Tester | Learning JavaScript & Cypress  
-[LinkedIn Profile] (optional) | [Portfolio or Resume Link] (optional)
+**[Sek Arman]**  
+Aspiring Manual Tester | Learning JavaScript & Cypress 
